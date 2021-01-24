@@ -1,5 +1,6 @@
 #include<iostream>
 #include<cmath>
+#include<cstdio>
 
 #define MAX 10
 
